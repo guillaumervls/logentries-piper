@@ -1,5 +1,5 @@
 # Logentries Piper
-Pipe a command's output to [Logentries](https://logentries.com/)
+Pipe a command's output to [Logentries](https://logentries.com/) and forward it to the standard output as well.
 
 ## Install
 

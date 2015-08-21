@@ -1,6 +1,6 @@
 {
   "name": "logentries-piper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pipe a command's output to Logentries",
   "bin": "index.js",
   "scripts": {
