@@ -1,0 +1,29 @@
+{
+  "name": "logentries-piper",
+  "version": "1.0.0",
+  "description": "Pipe a command's output to Logentries",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumervls/logentries-piper.git"
+  },
+  "keywords": [
+    "pipe",
+    "command",
+    "output",
+    "logentries"
+  ],
+  "author": "guillaumervls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaumervls/logentries-piper/issues"
+  },
+  "homepage": "https://github.com/guillaumervls/logentries-piper#readme",
+  "dependencies": {
+    "minimist": "^1.1.3",
+    "through": "^2.3.8"
+  }
+}
