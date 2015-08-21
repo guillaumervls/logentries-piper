@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var net = require('net');
 var through = require('through');
 var argv = require('minimist')(process.argv.slice(2));
